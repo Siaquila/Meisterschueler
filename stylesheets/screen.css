@@ -46,3 +46,5 @@ a {color:black !important; text-decoration:none;}
   .Adresse {margin-bottom:-65px; /*Namen rücken stärker zusammen*/}
   h2 {font-size:17px;}
 }
+
+section#impressum {color:grey;font-size:9px; position:fixed;bottom:0px;}
